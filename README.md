@@ -6,9 +6,7 @@
   </samp>
 </p>
 
-<details align="center">
-  <summary><samp>&#9776; Details</samp></summary>
-  <br>
+<br>
 
   <p align="center">
     <a href="https://github.com/korihorrelation?tab=repositories" target="_blank">
@@ -42,8 +40,6 @@
     />
   </picture>
 </div>
-
-</details>
 
 <br>
 
