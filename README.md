@@ -8,8 +8,9 @@
 
 <details align="center">
   <summary><samp>&#9776; Details</samp></summary>
+  <br>
+
   <p align="center">
-    <br>
     <a href="https://github.com/korihorrelation?tab=repositories" target="_blank">
       <img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=github&logoColor=white">
     </a>
@@ -25,19 +26,22 @@
     <a href="https://github.com/korihorrelation?tab=repositories&language=html" target="_blank">
       <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
     </a>
-    <br><br>
+  </p>
 
+  <p align="center">
     <img width="450em" src="https://github-readme-stats.vercel.app/api?username=korihorrelation&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&title_color=5391FE&icon_color=000000&text_color=555" />
-    <br><br>
+  </p>
 
+  <p align="center">
     <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=korihorrelation&include_all_commits=true&hide_border=true&theme=default" />
-    <br><br>
+  </p>
 
+  <p align="center">
     <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korihorrelation&layout=compact&custom_title=Most%20Used%20Languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&title_color=5391FE&text_color=555" />
-    <br><br>
+  </p>
 
+  <p align="center">
     Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="#">Resume</a><br>
-
     <a href="https://github.com/korihorrelation?tab=followers" target="_blank">
       <img alt="Followers" src="https://img.shields.io/github/followers/korihorrelation?style=flat-square&logo=github&label=followers">
     </a>
