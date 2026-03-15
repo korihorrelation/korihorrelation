@@ -1,7 +1,7 @@
-<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://kevincui.dev">Kori Horrelation</a></b></samp></h3>
+<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="#">Kori H.</a></b></samp></h3>
 <p align="center"><br>
   <samp>
-    「 Data Science BSc. 」<br>
+    「 Data Science | Statistics 」<br>
   </samp>
 </p>
 <details align="center">
