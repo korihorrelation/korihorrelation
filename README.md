@@ -29,14 +29,14 @@
 <p align="center">
     <a href="https://git.io/streak-stats">
         <img 
-        src="https://github-readme-streak-stats.herokuapp.com?user=korihorrelation&theme=transparent&mode=weekly" 
+        src="https://github-readme-streak-stats.herokuapp.com?user=korihorrelation&theme=transparent&mode=weekly&hide_border=true" 
         alt="GitHub Streak" /></a>
 </p>
 
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=korihorrelation&layout=donut&theme=transparent&hide=html,css"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=korihorrelation&layout=donut&theme=transparent&hide=html,css&hide_border=true"
     alt="Top Languages Donut"
   />
 </div>
