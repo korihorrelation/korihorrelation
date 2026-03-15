@@ -39,7 +39,7 @@
     Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="#">Resume</a><br>
 
     <a href="https://github.com/korihorrelation?tab=followers" target="_blank">
-      <img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white">
+      <img alt="Followers" src="https://img.shields.io/github/followers/korihorrelation?style=flat-square&logo=github&label=followers">
     </a>
     <a href="https://github.com/korihorrelation" target="_blank">
       <img alt="korihorrelation" src="https://badges.pufler.dev/visits/korihorrelation/korihorrelation?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/>
