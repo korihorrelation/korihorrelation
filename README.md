@@ -7,12 +7,23 @@
 <details align="center">
    <summary> <samp>&#9776; Details</samp></summary>
    <p align="center">
-     <br>
-      <a href="https://github.com/korihorrelation?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
-      <a href="https://github.com/korihorrelation?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
-      <a href="https://github.com/korihorrelation?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white"></a>
-      <a href="https://github.com/korihorrelation?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
-  <br>
+    <br>
+    <a href="https://github.com/korihorrelation?tab=repositories" target="_blank">
+      <img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=github&logoColor=white">
+    </a>
+    <a href="https://github.com/korihorrelation?tab=repositories&language=python" target="_blank">
+      <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
+    </a>
+    <a href="https://github.com/korihorrelation?tab=repositories&language=tex" target="_blank">
+      <img alt="TeX" src="https://img.shields.io/badge/-TeX-3D6117?style=flat-square&logo=latex&logoColor=white">
+    </a>
+    <a href="https://github.com/korihorrelation?tab=repositories&language=r" target="_blank">
+      <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white">
+    </a>
+    <a href="https://github.com/korihorrelation?tab=repositories&language=html" target="_blank">
+      <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
+    </a>
+    <br>
   <img src="https://github-readme-stats.vercel.app/api?username=korihorrelation&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img><br>
     Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="#">Resume</a><br>
      <a href="https://github.com/korihorrelation?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
