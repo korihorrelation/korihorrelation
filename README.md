@@ -26,17 +26,21 @@
   </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=korihorrelation&theme=transparent&mode=weekly&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <picture>
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=korihorrelation&theme=transparent&mode=weekly&hide_border=true"
+      alt="GitHub Streak"
+    />
+  </picture>
 </p>
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=korihorrelation&layout=donut&theme=transparent&hide=html,css&hide_border=true"
-    alt="Top Languages Donut"
-  />
+  <picture>
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=korihorrelation&layout=donut&theme=transparent&hide=html,css&hide_border=true"
+      alt="Top Languages Donut"
+    />
+  </picture>
 </div>
 
 </details>
